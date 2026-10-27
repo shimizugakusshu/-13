@@ -50,6 +50,15 @@ body {
   font-size: 0.9rem;
 }
 
+.announcement-banner {
+  margin-bottom: 12px;
+  padding: 10px 12px;
+  border-radius: 5px;
+  background-color: var(--primary);
+  color: var(--primary-text);
+  text-align: center;
+}
+
 header {
   text-align: center;
   padding: 12px 0;
